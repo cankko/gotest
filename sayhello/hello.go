@@ -2,6 +2,6 @@ package hello
 
 import "fmt"
 
-func Print() {
+func Print() string {
 	return "hello"
 }
